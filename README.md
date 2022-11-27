@@ -1,0 +1,1 @@
+This project allows the user to create map markers for the city of Boston by clicking on the button on the html file. These map markers are following a predetermined route that is defined by coordinates. These coordinates are plotted on the map using some built in functionality that is provided by mapbox.
